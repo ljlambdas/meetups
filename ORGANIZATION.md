@@ -4,7 +4,7 @@
 Everything about organizing a meetup should be kept inside an Issue dedicated to the meetup. 
 So, create a new Issue based on the template below for the upcoming meetup and then follow the TODO items in the body of the issue.
 
-* Title: `Ljubljana Lambdas <Month> <Year>` (example: Ljubljana Lambdas June 2017)
+* Title: `<Month> <Year>` (example: Ljubljana Lambdas June 2017)
 * Body:
 
 ```
